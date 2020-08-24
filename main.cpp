@@ -1,6 +1,6 @@
 #include <iostream>
 #include <assert.h>
-#include "ColorPair.h"
+#include "Color-Pair-Definition.h"
 
 using namespace std;
 
